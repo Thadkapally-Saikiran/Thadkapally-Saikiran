@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm Recent Grad 2k23 with a Degree Bachelor of Technology in IT from CMR Engineer College from Hyderabad-India and also i am open to work in the fields Data Analyst, Software Engineer and Data Scientist.
+I'm Recent Grad 2k23 with a Degree Bachelor of Technology in IT from CMR Engineer College - JNTUH from Hyderabad-India and also i am open to work in the fields Data Analyst, Software Engineer and Data Scientist.
 
 
 ## 🔗 Links
