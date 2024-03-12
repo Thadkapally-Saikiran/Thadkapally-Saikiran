@@ -21,21 +21,21 @@ I'm Recent Grad 2k23 with a Degree Bachelor of Technology in IT from CMR Enginee
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
+👩‍💻 I'm currently working on..
 
-🧠 I'm currently learning...
+🧠 I'm currently learning..
 
-👯‍♀️ I'm looking to collaborate on...
+👯‍♀️ I'm looking to collaborate on..
 
-🤔 I'm looking for help with...
+🤔 I'm looking for help with..
 
-💬 Ask me about...
+💬 Ask me about..
 
-📫 How to reach me...
+📫 How to reach me..
 
-😄 Pronouns...
+😄 Pronouns..
 
-⚡️ Fun fact...
+⚡️ Fun fact..
 
 
 ![Logo](https://github-readme-stats.vercel.app/api?username=Thadkapally-Saikiran&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
