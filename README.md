@@ -1,4 +1,4 @@
-![logo]
+![logo](https://github.com/Thadkapally-Saikiran/Thadkapally-Saikiran/blob/main/Thadkapally%20SaikirAN.png)
 <h1 align="center">Hi 👋, I'm Thadkapally Saikiran!</h1>
 <h3 align="center">Data-Driven & User-Friendly: Aspiring Dev/Analyst(Python, Open-Source)</h3>
 
