@@ -37,7 +37,7 @@ I'm Recent Grad 2k23 with a Degree Bachelor of Technology in IT from CMR Enginee
 ⚡️ I am Funny and Chill 😍
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thadkapally-saikiran&show_icons=true&locale=en" alt="thadkapally-saikiran" /></p>
+![Logo](https://github-readme-stats.vercel.app/api?username=Thadkapally-Saikiran&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thadkapally-saikiran&" alt="thadkapally-saikiran" /></p>
 
