@@ -7,7 +7,7 @@
 I'm Recent Grad 2k23 with a Degree Bachelor of Technology in IT from CMR Engineer College from Hyderabad-India and also i am open to work in the fields Data Analyst, Software Engineer and Data Scientist.
 
 
-## 🔗 Links
+## 🔗 Connect with me:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thadkapally-saikiran/)
 
