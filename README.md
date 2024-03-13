@@ -28,8 +28,6 @@ I'm Recent Grad 2k23 with a Degree Bachelor of Technology in IT from CMR Enginee
 
 🌱 I’m currently learning Machine Learning and Web Scraping
 
-🤔 I'm looking for help with...
-
 💞️ I’m looking to collaborate on Data field
 
 📫 How to reach me thadkapallysaikiran2001@gmail.com
