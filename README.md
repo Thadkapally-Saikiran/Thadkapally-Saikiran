@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm Recent Grad 2k23 with a Degree Bachelor of Technology in IT from CMR Engineer College - JNTUH from Hyderabad-India and also i am open to work in the fields Data Analyst, Software Engineer and Data Scientist.
+I'm Recent Grad 2k23 with a Degree Bachelor of Technology in IT from CMR Engineer College from Hyderabad-India and also i am open to work in the fields Data Analyst, Software Engineer and Data Scientist.
 
 
 ## 🔗 Links
@@ -20,23 +20,20 @@ I'm Recent Grad 2k23 with a Degree Bachelor of Technology in IT from CMR Enginee
 
 
 
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on..
+## Summary Of My Journey
+👋 Hi, I’m Thadkapally Saikiran
 
-🧠 I'm currently learning..
+👀 I’m interested in Data analysis and Data Science(AI/ML)
 
-👯‍♀️ I'm looking to collaborate on..
+🌱 I’m currently learning Machine Learning and Web Scraping
 
-🤔 I'm looking for help with..
+🤔 I'm looking for help with...
 
-💬 Ask me about..
+💞️ I’m looking to collaborate on Data field
 
-📫 How to reach me..
+📫 How to reach me thadkapallysaikiran2001@gmail.com
 
-😄 Pronouns..
-
-⚡️ Fun fact..
+⚡️ I am Funny and Chill 😍
 
 
 ![Logo](https://github-readme-stats.vercel.app/api?username=Thadkapally-Saikiran&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
