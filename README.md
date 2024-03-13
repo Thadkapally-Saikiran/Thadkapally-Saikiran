@@ -1,4 +1,4 @@
-
+![logo]
 <h1 align="center">Hi 👋, I'm Thadkapally Saikiran!</h1>
 <h3 align="center">Data-Driven & User-Friendly: Aspiring Dev/Analyst(Python, Open-Source)</h3>
 
@@ -19,7 +19,7 @@ I'm Recent Grad 2k23 with a Degree Bachelor of Technology in IT from CMR Enginee
 3. Database: MySQL
 4. Others: Machine Learning, Git, DS(Pandas, Matplotlib, Seaborn), SDLC, Knowledge on AWS & Restful API's.
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ## Summary Of My Journey
 👋 Hi, I’m Thadkapally Saikiran
