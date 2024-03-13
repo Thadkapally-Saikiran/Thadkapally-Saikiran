@@ -1,5 +1,5 @@
 
-# Hi, I'm Thadkapally Saikiran! 👋
+<h1 align="center">Hi, I'm Thadkapally Saikiran! 👋</h1>
 
 
 ## 🚀 About Me
