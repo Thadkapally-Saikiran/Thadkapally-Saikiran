@@ -18,7 +18,7 @@ I'm Recent Grad 2k23 with a Degree Bachelor of Technology in IT from CMR Enginee
 3. Database: MySQL
 4. Others: Machine Learning, Git, DS(Pandas, Matplotlib, Seaborn), SDLC, Knowledge on AWS & Restful API's.
 
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 ## Summary Of My Journey
 👋 Hi, I’m Thadkapally Saikiran
@@ -34,6 +34,7 @@ I'm Recent Grad 2k23 with a Degree Bachelor of Technology in IT from CMR Enginee
 📫 How to reach me thadkapallysaikiran2001@gmail.com
 
 ⚡️ I am Funny and Chill 😍
+
 
 
 ![Logo](https://github-readme-stats.vercel.app/api?username=Thadkapally-Saikiran&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
