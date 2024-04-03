@@ -1,6 +1,6 @@
 ![logo](https://github.com/Thadkapally-Saikiran/Thadkapally-Saikiran/blob/main/Thadkapally%20SaikirAN.png)
 <h1 align="center">Hi 👋, I'm Thadkapally Saikiran!</h1>
-<h3 align="center">Data-Driven & User-Friendly: Aspiring Dev/Analyst(Python, Open-Source)</h3>
+<h3 align="center">Passionate IT Graduate | Aspiring Data Scientist | Python Enthusiast | Software Developer | Front-End Web Developer | Data Analyst | Networking Enthusiast</h3>
 
 
 ## 🚀 About Me
