@@ -16,9 +16,9 @@ I'm Recent Grad 2k23 with a Degree Bachelor of Technology in IT from CMR Enginee
 
 ## 🛠 Skills
 1. Programming: Python, Html, CSS3
-2. Visualization: Tableau, Spreadsheets, Jupyter Notebook
-3. Database: MySQL
-4. Others: Machine Learning, Git, DS(Pandas, Matplotlib, Seaborn), SDLC, Knowledge on AWS & Restful API's.
+2. Database: SQL with Oracle
+3. Data Science: NumPy, Matplotlib, Machine Learning models, Neural Networks(CNN, ANN)
+4. Tools: Excel, GitHub, Google colab
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
