@@ -1,10 +1,10 @@
 ![logo](https://github.com/Thadkapally-Saikiran/Thadkapally-Saikiran/blob/main/Thadkapally%20SaikirAN.png)
 <h1 align="center">Hi 👋, I'm Thadkapally Saikiran!</h1>
-<h3 align="center">Passionate IT Graduate | Aspiring Data Scientist | Python Enthusiast | Software Developer | Front-End Web Developer | Data Analyst | Networking Enthusiast</h3>
+<h3 align="center">Passionate IT Graduate | Python Enthusiast | Software Developer | Front-End Web Developer </h3>
 
 
 ## 🚀 About Me
-I'm Recent Grad 2k23 with a Degree Bachelor of Technology in IT from CMR Engineer College from Hyderabad-India and also i am open to work in the fields Data Analyst, Software Engineer and Data Scientist.
+I'm Recent Grad 2k23 with a Degree Bachelor of Technology in IT from CMR Engineer College from Hyderabad-India and i am an aspiring software engineer trainee.
 
 
 ## 🔗 Connect with me:
@@ -25,11 +25,9 @@ I'm Recent Grad 2k23 with a Degree Bachelor of Technology in IT from CMR Enginee
 ## Summary Of My Journey
 👋 Hi, I’m Thadkapally Saikiran
 
-👀 I’m interested in Data analysis and Data Science(AI/ML)
+👀 I’m an aspiring software engineer trainee
 
-🌱 I’m currently learning Machine Learning and Web Scraping
-
-💞️ I’m looking to collaborate on Data field
+🌱 I’m currently learning python full stack trainee at codegnan
 
 📫 How to reach me thadkapallysaikiran2001@gmail.com
 
