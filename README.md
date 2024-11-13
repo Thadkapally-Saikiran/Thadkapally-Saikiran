@@ -1,4 +1,3 @@
-![logo](https://github.com/Thadkapally-Saikiran/Thadkapally-Saikiran/blob/main/Thadkapally%20SaikirAN.png)
 <h1 align="center">Hi 👋, I'm Thadkapally Saikiran!</h1>
 <h3 align="center">Passionate IT Graduate | Python Enthusiast | Software Developer | Front-End Web Developer </h3>
 
