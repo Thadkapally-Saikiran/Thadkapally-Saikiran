@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thadkapally Saikiran!</h1>
-<h3 align="center">Passionate IT Graduate | Python Enthusiast | Software Developer | Front-End Web Developer </h3>
+<h3 align="center">Passionate IT Graduate | Python Enthusiast | Software Developer | Front-End Enthusiastic </h3>
 
 
 ## 🚀 About Me
