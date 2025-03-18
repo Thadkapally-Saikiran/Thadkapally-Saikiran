@@ -14,10 +14,11 @@ I'm Recent Grad 2k23 with a Degree Bachelor of Technology in IT from CMR Enginee
 
 
 ## 🛠 Skills
-1. Programming: Python, Flask
-2. Database: MySQL
-3. Data Science: Basic knowledge => EDA, Data preprocessing, Data cleaning, NumPy, Matplotlib, Machine Learning models, Neural Networks(CNN, ANN)
-4. Tools: IDLE, VSCode, Google colab
+1. Front-End: Html, CSS, Jinja2, Bootstrap
+2. Back-End: Python, JavaScript, Node.js
+3. Database: MySQL
+4. Data Science: Basic knowledge => EDA, Data preprocessing, Data cleaning, NumPy, Matplotlib, Machine Learning models, Neural Networks(CNN, ANN)
+5. Tools: IDLE, VSCode, Google colab, Git, Netlify, font-awesome
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
